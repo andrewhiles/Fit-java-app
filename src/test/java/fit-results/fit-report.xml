@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<summary xmlns="http://refit.googlecode.com/report" passed="true" right="2" wrong="0" ignored="0" exceptions="0">
+    <inputDir>src/test/java/fit</inputDir>
+    <outputDir>src/test/java/fit-results</outputDir>
+    <numTests>1</numTests>
+    <test passed="true" right="2" wrong="0" ignored="0" exceptions="0">
+        <path>EmployeeFixture.html</path>
+    </test>
+</summary>
