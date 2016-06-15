@@ -9,3 +9,4 @@ The project uses Re-fit, an adaptation of the original Fit framework which acts 
 
 # Links
 http://fit.c2.com/ - Ward Cunningham's official Fit site.
+http://www.javaworld.com/article/2071778/testing-debugging/fit-for-analysts-and-developers.html - Great tutorial explaining Fit by Narayanan Jayaratchagan.
